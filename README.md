@@ -14,7 +14,7 @@ Three steps to add connector to your app:
 3) Add configuration to model-config.json
 
 ##### 1. API key
-You can get your SendGrid API key in your SendGrid Dashboard -> Seettings -> API keys
+You can get your SendGrid API key in your SendGrid Dashboard -> Settings -> API keys
 
 ##### 2. datasource.json
 ```json
@@ -22,7 +22,7 @@ You can get your SendGrid API key in your SendGrid Dashboard -> Seettings -> API
   "sendgrid": {
     "connector": "loopback-sendgrid-connector",
     "api_key": "your_api_key",
-    "from": "default_sender_email" // not required
+    "from": "default_sender_email (not required)"
   }
 }
 ```
