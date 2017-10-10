@@ -1,10 +1,10 @@
 # loopback-sendgrid-connector
-Loopback connector for SendGrid. Inspired by [loopback-connector-sendgrid](https://github.com/Cellarise/loopback-connector-sendgrid)
+Simple Loopback connector for SendGrid Mail service. Inspired by [loopback-connector-sendgrid](https://github.com/Cellarise/loopback-connector-sendgrid)
 
 ## Installation
 `npm install loopback-sendgrid-connector --save`
 
-## Documentation - Coming soon
+## Documentation - Coming soon!
 ### Configuration
 #### SendGrid API key
 
@@ -36,3 +36,5 @@ You can get your SendGrid API key in your SendGrid Dashboard -> Settings -> API 
   }
 }
 ```
+
+### Usage - Coming soon! :)
