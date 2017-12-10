@@ -29,6 +29,18 @@ You can get your SendGrid API key in your SendGrid Dashboard -> Settings -> API 
 }
 ```
 
+or you can specify your env key, and connector will use this as api_key for Sendgrid
+
+```json
+{
+  "sendgrid": {
+    "connector": "loopback-sendgrid-connector",
+    "api_key_env": "your_env_var",
+    "from": "default_sender_email (not required)"
+  }
+}
+```
+
 ##### 3. model-config.json
 ```json
 {
