@@ -1,6 +1,8 @@
 # loopback-sendgrid-connector
 Simple Loopback connector for SendGrid Mail service. Inspired by [loopback-connector-sendgrid](https://github.com/Cellarise/loopback-connector-sendgrid)
 
+[Link to npm](https://www.npmjs.com/package/loopback-sendgrid-connector)
+
 ## Installation
 ```
 npm install loopback-sendgrid-connector --save
