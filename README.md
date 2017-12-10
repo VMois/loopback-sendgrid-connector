@@ -111,3 +111,4 @@ List of all options for
 ### In future
 1. Add promises support
 2. Write tests :)
+3. Add api_key_env error if env var doesn't exists
